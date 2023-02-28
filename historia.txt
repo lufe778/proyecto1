@@ -1,3 +1,6 @@
 elimine todo y solo esta linea voy a tener
 ahora agregue esta otra linea para experimentar que cambios puede haber 
 y esta otra tambien
+
+Esta linea la agrego ahora que volvi atras en el tiempo con "checkout" y ahora estos cambios los guardare de 
+forma definitiva con un add+commit
